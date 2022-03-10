@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/KupriyanovAnton/mssc-beer-inventory-service/tree/master.svg?style=svg)](https://circleci.com/gh/KupriyanovAnton/mssc-beer-inventory-service/tree/master)# MSSC Beer Inventory Service
+[![CircleCI](https://circleci.com/gh/KupriyanovAnton/mssc-beer-inventory-service/tree/initial-project.svg?style=svg)](https://circleci.com/gh/KupriyanovAnton/mssc-beer-inventory-service/tree/initial-project)
 
 This repository contains source code examples used to support my on-line courses about the Spring Framework.
 
